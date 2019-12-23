@@ -1,0 +1,9 @@
+.my-loading {
+  font-size: 2rem;
+  font-weight: 700;
+  margin-top: 30px;
+}
+
+#root {
+  height: 100vh;
+}
